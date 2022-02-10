@@ -2,6 +2,7 @@
 
 #### 介绍
 安卓版spring，支持安卓前后端分离或者单体架构开发方式，前端采用熟悉的html、js甚至vue开发，java开发后台接口，好处是client可以是嵌入的webView，也可以是可访问安卓IP的浏览器，抛弃安卓原本的ui界面开发方式
+![输入图片说明](app/src/main/assets/static/image/image.png)
 
 #### 软件架构
 基于http服务的方式开发安卓应用程序；
