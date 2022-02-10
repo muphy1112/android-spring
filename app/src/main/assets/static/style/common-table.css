@@ -1,0 +1,26 @@
+.td {
+    border-bottom: 1px solid #ebeef5;
+    text-align: left;
+    padding: 12px 0;
+    border-right: 1px solid #ebeef5;
+}
+
+.th {
+    border-bottom: 1px solid #ebeef5;
+    text-align: left;
+    padding: 12px 0;
+    border-right: 1px solid #ebeef5;
+}
+
+.table {
+    color: #909399;
+    width: 100%;
+}
+
+.thead {
+    width: 100%;
+}
+
+.tbody {
+    width: 100%;
+}
