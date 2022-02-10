@@ -8,7 +8,7 @@
 基于http服务的方式开发安卓应用程序；
 包含ioc、mvc、orm、lifecycle、全局变量监听和各种工具等；
 1.  代码结构
-![代码结构](https://images.gitee.com/uploads/images/2022/0210/151313_b14e44de_8516774.png "屏幕截图.png")
+![代码结构](app/src/main/assets/static/image/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.png)
 2.  webview显示页面
 ![webview显示页面](https://images.gitee.com/uploads/images/2022/0210/151411_626d4c3f_8516774.png "屏幕截图.png")
 3.  浏览器显示
