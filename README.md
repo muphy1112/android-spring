@@ -5,12 +5,17 @@
 ![输入图片说明](app/src/main/assets/static/image/image.png)
 
 #### 软件架构
-基于http服务的方式开发安卓应用程序；
-包含ioc、mvc、orm、lifecycle、全局变量监听和各种工具等；
+* 基于http服务的方式开发安卓应用程序；
+* 包含ioc、mvc、orm、lifecycle、全局变量与监听和各种工具等；
+* 支持的注解：Autowired、Bean、Component、Configuration、Controller、PostConstruct、Repository、RequestMapping、RequestParam、RuphyApplication、Service
+* 线程统一管理
+* 支持环境变量的模板解析
+* 支持的spring初始化的生命周期依次：Init#create、ApplicationContextAware#setApplicationContext、Init#start、@PostConstruct
 1.  代码结构
 ![代码结构](app/src/main/assets/static/image/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.png)
 2.  webview显示页面
 ![webview显示页面](https://images.gitee.com/uploads/images/2022/0210/151411_626d4c3f_8516774.png "屏幕截图.png")
+![webview显示页面](app/src/main/assets/static/image/image2.png)
 3.  浏览器显示
 ![浏览器显示](https://images.gitee.com/uploads/images/2022/0210/151519_484f01b3_8516774.png "屏幕截图.png")
 
